@@ -48,6 +48,9 @@ This portfolio website serves as a comprehensive showcase of my professional jou
    - Edit `index.html` for content changes
    - Modify `assets/css/style.css` for styling
    - Update `assets/js/main.js` for functionality
+ ## 🔗 Live Demo
+
+Visit my portfolio: [https://usamasshk.github.io/Portfolio](https://usamasshk.github.io/Portfolio)
 
 ## 💻 Skills & Expertise
 
